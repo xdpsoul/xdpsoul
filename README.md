@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> <b>python · js · lua · html/css</b><br> <i>clean code · practical solutions · security focus</i> </p>
-<p align="center"> Currently building <b>LunaShield</b> — security infrastructure that actually makes sense.<br> No bloated frameworks. No unnecessary abstractions.<br> Just straightforward code, solid architecture, and things that work. </p>
+<p align="center"> Currently building <b>NobleHost</b> — security infrastructure that actually makes sense.<br> No bloated frameworks. No unnecessary abstractions.<br> Just straightforward code, solid architecture, and things that work. </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white&labelColor=2c2d72" alt="Lua"/>
